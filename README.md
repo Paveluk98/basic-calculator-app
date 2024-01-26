@@ -4,4 +4,18 @@
 <br>
 <br>
 "C" = Clears the field of all values.
+<br>
+"/" = Division Operator.
+<br>
+"*" = Multiplication Operator.
+<br>
+"-" = Subtraction Operator.
+<br>
+"+" = Addition Operator.
+<br>
+"=" = Equals Sign.
+<br>
+"<<<" = Remove 1 value.
+<br>
+"." = Dot Operator.
 </strong></i>
